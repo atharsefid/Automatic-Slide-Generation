@@ -5,6 +5,6 @@ This repository contains the source code for the Automatic Slide generations pro
 This is an example of the slides gerenated for a conference paper:
 ![Automatically generated slides by our model](Automatically-Generated-Slides.png)
 
-The repository only contains the palin code. The Intereger linear Programming part will be added to the repository later. 
+The repository only contains the palin code. 
 
 
